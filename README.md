@@ -56,12 +56,13 @@ install.packages(c(
 ```bash
 git clone https://github.com/T1fff/PaymentTransactionsEUDashShiny.git
 ```
+2. Abre: https://github.com/T1fff/data .Descarga el archivo "Data_payments.csv", copia y pégalo en la carpeta donde clonaste el repositorio(aunque se descargue como archivo.txt).
 
-2. Abre el archivo `Data_Payments_ShinyDash.Rproj` en RStudio
+3. Abre el archivo `Data_Payments_ShinyDash.Rproj` en RStudio
 
-3. Instala los paquetes (ver sección anterior)
+4. Instala los paquetes (ver sección anterior)
 
-4. En la consola de RStudio ejecuta:
+5. En la consola de RStudio ejecuta:
 ```r
 shiny::runApp()
 ```
