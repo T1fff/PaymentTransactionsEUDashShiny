@@ -1,0 +1,12 @@
+name: Data_Payments_ShinyDash
+title: Data_Payments_ShinyDash
+username: vys7bz-tiffany-mendoza
+account: vys7bz-tiffany-mendoza
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17107425
+bundleId: 11834696
+url: https://vys7bz-tiffany-mendoza.shinyapps.io/Data_Payments_ShinyDash/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
