@@ -78,4 +78,3 @@ Los archivos de datos están almacenados con **Git LFS**. Si al clonar los archi
 git lfs install
 git lfs pull
 ```
-```
