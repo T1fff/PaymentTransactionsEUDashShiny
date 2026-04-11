@@ -52,7 +52,7 @@ install.packages(c(
 
 ## Cómo correr la app
 
-1. Clona el repositorio:
+1. Situate en la carpeta donde quieres clonar el repositorio y luego clónalo con el siguiente comando:
 ```bash
 git clone https://github.com/T1fff/PaymentTransactionsEUDashShiny.git
 ```
