@@ -4,7 +4,7 @@
 Dashboard analítico interactivo desarrollado en R Shiny sobre transacciones de pago de la Unión Europea.
 
 Este dashboard se encuentra online en el siguiente link: [https://vys7bz-tiffany-mendoza.shinyapps.io/Data_Payments_ShinyDash/]
-
+>  El servidor de Posit se duerme cuando detecta minutos de inactividad, si eso ocurre solamente dar click donde aparece 'Reload'
 ---
 
 ## Requisitos
