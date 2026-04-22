@@ -50,6 +50,10 @@ install.packages(c(
 
 ---
 
+## Tutorial para correr la app
+
+link: https://youtu.be/0xIiPYHZSYs
+
 ## Cómo correr la app
 
 1. Situate en la carpeta donde quieres clonar el repositorio y luego clónalo con el siguiente comando:
